@@ -1,0 +1,68 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.infos{
+    background-color: black;
+    color: #fff;
+    width: 400px;
+    height: 500px;
+    padding: 15px;
+    gap: 25px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+.formulario{
+    padding: 10px;
+    border-radius: 5px;
+    width: 600px;
+    height: 500px;
+    display: flex;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px; 
+    gap: 15px;
+}
+input{
+    background-color: #fff;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    width: 180px;
+    outline: rgb(241, 241, 30);
+    font-size: 16px;
+    
+}
+textarea{
+    border: none;
+    height: 150px;
+    width: 540px;
+    padding: 5px;
+    font-size: 15px;
+    outline:none;
+}
+button{
+    width: 180px;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    color: rgb(78, 78, 8);
+    background-color: rgba(220, 220, 17, 0.997);
+}
+.icons a{
+   padding:  30px;
+}
+svg{
+    color: rgba(207, 207, 23, 0.997);
+}

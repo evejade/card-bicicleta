@@ -1,0 +1,47 @@
+.pag{
+    display: flex;
+    height: 80vh;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    background-color: black ;
+}
+span{
+    color: yellow;
+}
+.text{
+    width:540px;
+    height:400px;
+    color: #fff;
+    margin-top: 20px;
+}
+.text h1{
+    font-size: 60px;
+}
+.text p{
+    padding: 20px 0;
+    font-size:25px;
+}
+.text button{
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+}
+.img{
+    height:500px;
+}
+.img img{
+    height: 650px;
+    width: 540px;
+    border-radius: 3px;
+    margin-top: 0px;
+}
+.text a{
+    text-decoration: none;
+    color:#000;
+}

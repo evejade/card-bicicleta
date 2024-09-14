@@ -1,0 +1,63 @@
+.nsei{
+    background-color: #232221;
+    height:95vh;
+    
+    & h1{
+        padding-top: 80px;
+        margin-left: 200px;
+        font-size: 70px;
+        color: #fff;
+    }
+}
+span{
+    color: #e7d802;
+}
+.oep {
+    display: flex;
+    justify-content: center;
+}
+.prata {
+    background-color: black;
+    color: #fff;
+    padding: 25px;
+    margin: 80px;
+    border-radius: 5px;
+}
+.ouro {
+    background-color: black;
+    color: #fff;
+    padding: 25px;
+    margin: 40px;
+    border-radius: 5px;
+
+    & h2 {
+        color: #e7d802;
+    }
+}
+
+.prata ul li {
+    list-style: circle;
+    color: #fff;
+}
+
+.ouro ul li {
+    list-style: circle;
+    color: #fff;
+}
+.btn {
+    padding: 20px;
+    color: #fff;
+    background-color: #403d39;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+.btn1{
+    padding: 20px;
+    color: #fff;
+    background-color: #403d39;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #e7d802;
+}

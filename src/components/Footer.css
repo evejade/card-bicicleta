@@ -1,0 +1,47 @@
+.footer {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    padding: 35px;
+   
+}
+
+.footer img {
+    height: 32px;
+    margin: 25px 30px 30px 150px;
+    justify-content: space-between;
+    margin-top: 32px;
+    margin-right: 160px;
+}
+
+ul {
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: 160px;
+}
+li {
+    margin-left: 30px;
+    font-size: 18px;
+    padding: 10px;
+    list-style: none;
+    color: #6e6969;
+}
+.c{
+    display: flex;
+}
+.div h3{
+    margin-left: 30px;
+}
+.sla{
+    margin: 25px;
+}
+.sla a{
+    padding: 15px;
+    text-decoration: none;
+
+}
+svg{
+    width: 35px;
+    height: 35px;
+    color: #fff;
+}
